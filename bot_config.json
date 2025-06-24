@@ -1,0 +1,29 @@
+{
+  "admins": [
+    6943927377
+  ],
+  "source_channels": [
+    -1002522070534,
+    -1002814755938,
+    -1002557141292
+  ],
+  "target_channels": [
+    -1002666978794,
+    -1002424187391
+  ],
+  "forward_settings": {
+    "preserve_sender": false,
+    "add_source_info": true,
+    "filter_content_types": [],
+    "keyword_filter": [],
+    "delay_seconds": 0,
+    "batch_forward": false,
+    "max_forwards_per_minute": 60,
+    "media_group_timeout": 3
+  },
+  "notification_settings": {
+    "notify_admin_on_error": true,
+    "daily_report": true,
+    "report_channel": null
+  }
+}

@@ -1,0 +1,669 @@
+2025-06-20 10:57:04,171 - __main__ - INFO - 机器人启动中...
+2025-06-20 10:57:05,454 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 10:57:05,840 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 10:57:05,841 - telegram.ext.Application - INFO - Application started
+2025-06-20 10:57:07,295 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:57:07,871 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 10:57:17,835 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:57:27,435 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:57:28,743 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 10:57:37,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:57:48,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:57:58,629 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:58:09,030 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:58:19,402 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:58:29,832 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:58:40,211 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:58:50,630 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:59:01,012 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:59:11,435 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:59:17,966 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:59:19,268 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 10:59:29,058 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:59:29,058 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 10:59:29,059 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 10:59:34,664 - __main__ - INFO - 机器人启动中...
+2025-06-20 10:59:35,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 10:59:36,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 10:59:36,071 - telegram.ext.Application - INFO - Application started
+2025-06-20 10:59:38,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:59:39,271 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 10:59:46,460 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 10:59:47,751 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 10:59:56,867 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:01,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:11,590 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:21,993 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:32,414 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:35,131 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:36,465 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:00:43,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:43,299 - __main__ - INFO - 收到消息来自频道: 6943927377 (None)
+2025-06-20 11:00:53,680 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:00:58,750 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:01:09,197 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:01:19,603 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:01:29,995 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:01:40,383 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:01:50,782 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:02:01,191 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:02:11,575 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:02:22,006 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:02:30,155 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:02:30,631 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:02:30,632 - __main__ - INFO - 收到消息来自频道: -1002814755938 (今日头条极速版)
+2025-06-20 11:02:41,017 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:02:51,434 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:03:01,832 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:03:09,667 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:03:10,938 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:03:18,445 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:03:18,446 - __main__ - INFO - 收到消息来自频道: -1002814755938 (今日头条极速版)
+2025-06-20 11:03:18,446 - __main__ - ERROR - 转发失败 -1002814755938 -> -1002666978794: 'Message' object has no attribute 'copy_to'
+2025-06-20 11:03:19,671 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 400 Bad Request"
+2025-06-20 11:03:19,672 - __main__ - ERROR - 通知管理员失败 6943927377: Can't parse entities: can't find end of the entity starting at byte offset 156
+2025-06-20 11:03:19,672 - __main__ - ERROR - 转发失败 -1002814755938 -> -1002424187391: 'Message' object has no attribute 'copy_to'
+2025-06-20 11:03:20,066 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 400 Bad Request"
+2025-06-20 11:03:20,067 - __main__ - ERROR - 通知管理员失败 6943927377: Can't parse entities: can't find end of the entity starting at byte offset 156
+2025-06-20 11:03:28,849 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:03:39,271 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:03:49,669 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:04:00,070 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:04:10,475 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:04:20,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:04:31,295 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:04:41,678 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:04:52,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:05:02,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:05:12,868 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:05:23,272 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:05:33,677 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:05:44,081 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:05:54,467 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:06:04,871 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:06:15,272 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:06:25,118 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:06:25,507 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:06:25,508 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:06:35,891 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:06:46,328 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:06:56,734 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:07:00,337 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:07:01,627 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:07:10,735 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:07:13,664 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:07:13,665 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:07:13,665 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002666978794: 'Message' object has no attribute 'copy_to'
+2025-06-20 11:07:14,817 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 400 Bad Request"
+2025-06-20 11:07:14,817 - __main__ - ERROR - 通知管理员失败 6943927377: Can't parse entities: can't find end of the entity starting at byte offset 141
+2025-06-20 11:07:14,817 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002424187391: 'Message' object has no attribute 'copy_to'
+2025-06-20 11:07:15,197 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 400 Bad Request"
+2025-06-20 11:07:15,197 - __main__ - ERROR - 通知管理员失败 6943927377: Can't parse entities: can't find end of the entity starting at byte offset 141
+2025-06-20 11:07:24,071 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:07:34,475 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:07:44,867 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:07:55,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:08:05,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:08:16,053 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:08:26,436 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:08:36,823 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:08:47,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:08:57,602 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:09:07,983 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:09:18,366 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:09:28,757 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:09:39,145 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:09:49,533 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:09:59,924 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:10:10,310 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:10:20,714 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:10:31,113 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:10:41,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:10:51,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:11:02,305 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:11:12,698 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:11:23,080 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:11:33,478 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:11:43,861 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:11:54,260 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:12:04,712 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:12:15,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:12:25,512 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:12:35,915 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:12:46,312 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:12:56,712 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:13:01,512 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:13:01,513 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:13:01,513 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:13:05,247 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:13:06,535 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:13:06,952 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:13:06,952 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:13:15,530 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:13:15,531 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:13:15,531 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002666978794: Invalid format string
+2025-06-20 11:13:16,874 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 400 Bad Request"
+2025-06-20 11:13:16,875 - __main__ - ERROR - 通知管理员失败 6943927377: Can't parse entities: character '-' is reserved and must be escaped with the preceding '\'
+2025-06-20 11:13:16,875 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002424187391: Invalid format string
+2025-06-20 11:13:17,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 400 Bad Request"
+2025-06-20 11:13:17,350 - __main__ - ERROR - 通知管理员失败 6943927377: Can't parse entities: character '-' is reserved and must be escaped with the preceding '\'
+2025-06-20 11:13:26,340 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:13:36,721 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:13:47,116 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:13:57,504 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:14:07,893 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:14:18,275 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:14:28,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:14:39,055 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:14:49,439 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:14:59,821 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:15:10,223 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:15:20,607 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:15:30,981 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:15:41,373 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:15:51,751 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:16:02,137 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:16:12,517 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:16:22,901 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:16:33,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:16:33,175 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:16:33,175 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:16:36,351 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:16:37,554 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:16:37,909 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:16:37,910 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:16:44,080 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:16:44,081 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:16:46,098 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:16:46,120 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:16:47,110 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:16:47,130 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:16:54,423 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:04,772 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:15,106 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:25,445 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:35,791 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:46,155 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:56,530 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:56,876 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:17:56,877 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:17:58,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:17:58,506 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:17:59,429 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:17:59,449 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:17:59,450 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:18:00,397 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:00,410 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:18:01,271 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:01,293 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:18:01,294 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:18:02,132 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:02,145 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:18:02,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:03,010 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:18:07,235 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:18:17,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:18:27,922 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:18:38,269 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:18:41,652 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:18:41,653 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:18:43,319 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:43,342 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:18:44,334 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:44,346 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:18:44,346 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:18:45,190 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:45,213 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:18:46,130 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:46,151 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:18:46,151 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试)
+2025-06-20 11:18:47,041 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:47,052 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:18:47,911 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:18:47,923 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:18:52,001 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:19:02,476 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:19:12,819 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:19:23,149 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:19:33,490 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:19:43,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:19:54,200 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:20:04,556 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:20:14,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:20:25,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:20:35,586 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:20:46,226 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:20:56,563 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:21:06,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:21:17,276 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:21:27,633 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:21:37,971 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:21:48,308 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:21:58,656 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:22:09,000 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:22:19,616 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:22:29,957 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:22:40,305 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:22:50,663 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:23:01,008 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:23:11,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:23:21,706 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:23:55,355 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:23:56,503 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:23:56,852 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:23:56,853 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:24:08,030 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:24:13,748 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:24:13,749 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003118835299457
+2025-06-20 11:24:13,749 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003118835299457
+2025-06-20 11:24:13,750 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003118835299457
+2025-06-20 11:24:16,751 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:24:16,752 - __main__ - ERROR - 媒体组转发失败 -1002557141292 -> -1002666978794: Attribute `caption` of class `InputMediaVideo` can't be set!
+2025-06-20 11:24:16,752 - __main__ - ERROR - 记录转发日志失败: table forward_logs has no column named media_group_id
+2025-06-20 11:24:16,753 - __main__ - ERROR - 记录转发日志失败: table forward_logs has no column named media_group_id
+2025-06-20 11:24:16,754 - __main__ - ERROR - 记录转发日志失败: table forward_logs has no column named media_group_id
+2025-06-20 11:24:18,019 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:24:18,020 - __main__ - ERROR - 媒体组转发失败 -1002557141292 -> -1002424187391: Attribute `caption` of class `InputMediaVideo` can't be set!
+2025-06-20 11:24:18,020 - __main__ - ERROR - 记录转发日志失败: table forward_logs has no column named media_group_id
+2025-06-20 11:24:18,020 - __main__ - ERROR - 记录转发日志失败: table forward_logs has no column named media_group_id
+2025-06-20 11:24:18,022 - __main__ - ERROR - 记录转发日志失败: table forward_logs has no column named media_group_id
+2025-06-20 11:24:18,512 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:24:24,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:24:34,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:24:44,807 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:24:55,154 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:25:05,512 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:25:15,857 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:25:26,198 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:25:36,542 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:25:46,883 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:25:57,230 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:26:07,570 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:26:17,920 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:26:28,290 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:26:38,639 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:26:48,980 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:26:59,349 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:27:09,711 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:27:20,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:27:30,395 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:27:40,750 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:27:51,115 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:27:57,696 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:27:57,696 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:27:57,696 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:28:12,291 - __main__ - INFO - 添加了 media_group_id 列
+2025-06-20 11:28:12,301 - __main__ - INFO - 添加了 is_media_group 列
+2025-06-20 11:28:12,303 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:28:13,475 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:28:13,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:28:13,831 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:28:24,903 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:28:26,442 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:28:26,443 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003120857523481
+2025-06-20 11:28:26,444 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003120857523481
+2025-06-20 11:28:26,444 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003120857523481
+2025-06-20 11:28:29,454 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:28:29,455 - __main__ - ERROR - 媒体组转发失败 -1002557141292 -> -1002666978794: Attribute `caption` of class `InputMediaVideo` can't be set!
+2025-06-20 11:28:30,828 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:28:30,828 - __main__ - ERROR - 媒体组转发失败 -1002557141292 -> -1002424187391: Attribute `caption` of class `InputMediaVideo` can't be set!
+2025-06-20 11:28:31,425 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:28:36,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:28:47,141 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:28:57,486 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:29:07,834 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:29:18,181 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:29:28,521 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:29:38,865 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:29:49,216 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:29:59,552 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:30:09,892 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:30:20,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:30:30,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:30:40,915 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:30:51,257 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:01,600 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:11,935 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:20,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:20,227 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:31:20,227 - __main__ - INFO - 转发单条消息
+2025-06-20 11:31:22,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:31:22,089 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:31:23,030 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:31:23,041 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:31:30,565 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:33,815 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:33,816 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:31:33,816 - __main__ - INFO - 转发单条消息
+2025-06-20 11:31:35,590 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:31:35,609 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:31:36,511 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:31:36,531 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:31:44,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:48,866 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:31:48,868 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003122476858329
+2025-06-20 11:31:48,868 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003122476858329
+2025-06-20 11:31:48,868 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003122476858329
+2025-06-20 11:31:51,871 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:31:51,871 - __main__ - ERROR - 媒体组转发失败 -1002557141292 -> -1002666978794: Attribute `caption` of class `InputMediaPhoto` can't be set!
+2025-06-20 11:31:53,155 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:31:53,155 - __main__ - ERROR - 媒体组转发失败 -1002557141292 -> -1002424187391: Attribute `caption` of class `InputMediaPhoto` can't be set!
+2025-06-20 11:31:53,673 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:31:59,222 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:32:09,566 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:32:19,908 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:32:30,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:32:40,682 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:32:51,114 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:33:01,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:33:11,379 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:33:11,380 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:33:11,380 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:33:14,791 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:33:15,966 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:33:16,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:33:16,392 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:33:27,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:33:30,660 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:33:30,661 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003123291227521
+2025-06-20 11:33:30,661 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003123291227521
+2025-06-20 11:33:30,661 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003123291227521
+2025-06-20 11:33:33,671 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:33:36,664 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:33:36,704 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (3条)
+2025-06-20 11:33:38,864 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:33:38,896 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (3条)
+2025-06-20 11:33:41,002 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:33:51,306 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:33:51,308 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003123456497641
+2025-06-20 11:33:51,308 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003123456497641
+2025-06-20 11:33:51,308 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003123456497641
+2025-06-20 11:33:54,319 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:33:57,146 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:33:57,187 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (3条)
+2025-06-20 11:33:59,410 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:33:59,448 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (3条)
+2025-06-20 11:34:01,650 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:34:11,997 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:34:22,348 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:34:32,703 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:34:43,056 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:34:53,400 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:35:03,751 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:35:14,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:35:24,461 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:35:34,818 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:35:45,172 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:35:55,722 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:36:06,144 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:36:16,500 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:36:26,848 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:36:37,201 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:36:47,543 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:36:57,888 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:37:08,230 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:37:18,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:37:29,433 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:37:29,433 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:37:29,434 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:37:32,447 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:37:33,544 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:37:33,887 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:37:33,889 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:37:44,990 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:37:55,332 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:38:03,549 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:38:03,550 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003125474255553
+2025-06-20 11:38:03,550 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003125474255553
+2025-06-20 11:38:03,550 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003125474255553
+2025-06-20 11:38:06,555 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:38:09,539 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:38:09,578 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (3条)
+2025-06-20 11:38:11,922 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:38:12,016 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (3条)
+2025-06-20 11:38:13,892 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:38:24,232 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:38:34,598 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:38:44,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:38:55,284 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:39:05,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:39:16,008 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:39:26,389 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:39:36,877 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:39:47,274 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:39:57,622 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:40:07,971 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:40:18,313 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:40:19,306 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:40:20,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:40:29,650 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:40:38,946 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:40:38,948 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003126716430697
+2025-06-20 11:40:38,949 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003126716430697
+2025-06-20 11:40:38,949 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003126716430697
+2025-06-20 11:40:38,950 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003126716430697
+2025-06-20 11:40:38,950 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003126716430697
+2025-06-20 11:40:38,950 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003126716430697
+2025-06-20 11:40:41,952 - __main__ - INFO - 转发媒体组，包含 6 条消息
+2025-06-20 11:40:46,957 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:40:47,034 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (6条)
+2025-06-20 11:40:49,514 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:40:51,273 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:40:51,347 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (6条)
+2025-06-20 11:40:59,867 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:41:10,265 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:41:19,136 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:41:19,138 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003127038906353
+2025-06-20 11:41:19,138 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003127038906353
+2025-06-20 11:41:19,138 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003127038906353
+2025-06-20 11:41:22,142 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:41:25,446 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:41:25,486 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (3条)
+2025-06-20 11:41:27,683 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:41:27,728 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (3条)
+2025-06-20 11:41:29,478 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:41:39,932 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:41:50,313 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:41:57,467 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:41:58,660 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:42:06,655 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:42:07,863 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:42:17,002 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:42:27,345 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:42:37,687 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:42:48,034 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:42:53,697 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:42:53,697 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:42:53,698 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:42:57,280 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:42:58,468 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:42:58,862 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:42:58,863 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:43:09,921 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:43:11,779 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:43:11,780 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003127940062465
+2025-06-20 11:43:11,780 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003127940062465
+2025-06-20 11:43:11,780 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003127940062465
+2025-06-20 11:43:14,791 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:43:17,935 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:43:17,977 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (3条)
+2025-06-20 11:43:20,188 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:43:20,232 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (3条)
+2025-06-20 11:43:22,119 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:43:33,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:43:33,460 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:43:33,460 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:44:45,939 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:44:47,170 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:44:47,536 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:44:47,537 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:44:48,698 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:44:49,073 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:44:49,199 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:44:49,697 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:44:52,276 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:44:52,767 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:45:01,577 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:45:01,580 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003128818398881
+2025-06-20 11:45:01,580 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003128818398881
+2025-06-20 11:45:01,580 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003128818398881
+2025-06-20 11:45:04,582 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:45:07,440 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:45:07,479 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (3条)
+2025-06-20 11:45:09,670 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:45:09,710 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (3条)
+2025-06-20 11:45:11,955 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:45:22,318 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:45:32,691 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:45:43,086 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:45:53,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:46:03,831 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:46:11,757 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:46:11,757 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:46:11,758 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:48:27,369 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:48:28,502 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:48:28,848 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:48:28,848 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:48:39,895 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:48:42,657 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:48:42,658 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:48:42,658 - __main__ - INFO - 转发单条消息
+2025-06-20 11:48:42,659 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002666978794: name 'source_info' is not defined
+2025-06-20 11:48:43,891 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:48:43,893 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002424187391: name 'source_info' is not defined
+2025-06-20 11:48:44,417 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:48:53,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:49:03,122 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:49:03,122 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:49:03,122 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:50:14,493 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:50:15,644 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:50:16,073 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:50:16,074 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:50:22,176 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:50:22,176 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:50:22,177 - __main__ - INFO - 转发单条消息
+2025-06-20 11:50:22,177 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002666978794: cannot access local variable 'source_info' where it is not associated with a value
+2025-06-20 11:50:23,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:50:23,391 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002424187391: cannot access local variable 'source_info' where it is not associated with a value
+2025-06-20 11:50:23,889 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:50:32,559 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:50:41,910 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:50:41,911 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-20 11:50:41,911 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-20 11:51:39,402 - __main__ - INFO - 机器人启动中...
+2025-06-20 11:51:40,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getMe "HTTP/1.1 200 OK"
+2025-06-20 11:51:41,200 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-20 11:51:41,200 - telegram.ext.Application - INFO - Application started
+2025-06-20 11:51:52,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:51:55,078 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:51:55,079 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003132126347873
+2025-06-20 11:51:55,079 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003132126347873
+2025-06-20 11:51:55,079 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003132126347873
+2025-06-20 11:51:58,083 - __main__ - INFO - 转发媒体组，包含 3 条消息
+2025-06-20 11:52:01,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:52:01,237 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (3条)
+2025-06-20 11:52:03,338 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:52:03,378 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (3条)
+2025-06-20 11:52:05,495 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:52:15,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:52:26,299 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:52:36,678 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:52:47,119 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:52:57,486 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:53:07,858 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:53:13,777 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:53:13,779 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:13,779 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:16,293 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:16,312 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:53:17,458 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:17,468 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:17,469 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003132751641977
+2025-06-20 11:53:17,469 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003132751641977
+2025-06-20 11:53:17,469 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:17,469 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:18,346 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:18,358 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:53:19,284 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:19,302 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:19,302 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:19,302 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:20,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:20,234 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:53:20,482 - __main__ - INFO - 转发媒体组，包含 2 条消息
+2025-06-20 11:53:21,178 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:21,190 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:21,190 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:21,190 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:22,072 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:22,083 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:53:23,166 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:53:23,189 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (2条)
+2025-06-20 11:53:24,148 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:53:24,933 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:24,944 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:24,944 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:24,944 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:25,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:25,852 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:53:26,109 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:53:26,140 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (2条)
+2025-06-20 11:53:26,800 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:26,813 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:26,813 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:26,813 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:31,820 - __main__ - ERROR - 转发失败 -1002557141292 -> -1002666978794: Timed out
+2025-06-20 11:53:33,074 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:33,882 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:33,903 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:33,903 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:33,903 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:34,520 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:53:34,742 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:34,761 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:53:35,537 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:35,547 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:35,548 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: None
+2025-06-20 11:53:35,548 - __main__ - INFO - 转发单条消息
+2025-06-20 11:53:36,357 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:36,375 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002666978794
+2025-06-20 11:53:37,238 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/copyMessage "HTTP/1.1 200 OK"
+2025-06-20 11:53:37,250 - __main__ - INFO - 消息已转发: -1002557141292 -> -1002424187391
+2025-06-20 11:53:37,250 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003132751642041
+2025-06-20 11:53:37,250 - __main__ - INFO - 收到消息来自频道: -1002557141292 (测试) - 媒体组ID: 14003132751642041
+2025-06-20 11:53:40,261 - __main__ - INFO - 转发媒体组，包含 2 条消息
+2025-06-20 11:53:41,737 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:53:41,759 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002666978794 (2条)
+2025-06-20 11:53:43,273 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/sendMediaGroup "HTTP/1.1 200 OK"
+2025-06-20 11:53:43,302 - __main__ - INFO - 媒体组已转发: -1002557141292 -> -1002424187391 (2条)
+2025-06-20 11:53:45,031 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:53:55,404 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:54:05,835 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:54:16,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:54:26,586 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:54:36,957 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:54:47,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:54:57,841 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:55:08,210 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:55:18,579 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:55:29,034 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:55:39,414 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:55:49,838 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:56:00,207 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:56:10,577 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:56:20,945 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:56:31,435 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:56:41,815 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:56:52,177 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:57:02,640 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:57:13,008 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:57:23,386 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:57:33,756 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:57:44,195 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:57:54,637 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:58:05,009 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:58:15,378 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:58:25,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
+2025-06-20 11:58:36,211 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7630884216:AAEEH2A_kBJe4MoEFf0DxjQg-Qz5QMg3HrU/getUpdates "HTTP/1.1 200 OK"
